@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vimleshsingh/Projects/azuretest/azuretest/azuretest/azuretest.csproj",
+      "projectUniqueName": "/Users/vimleshsingh/Projects/azure/azuretest/azuretest/azuretest/azuretest.csproj",
       "projectName": "azuretest",
-      "projectPath": "/Users/vimleshsingh/Projects/azuretest/azuretest/azuretest/azuretest.csproj",
+      "projectPath": "/Users/vimleshsingh/Projects/azure/azuretest/azuretest/azuretest/azuretest.csproj",
       "packagesPath": "/Users/vimleshsingh/.nuget/packages/",
-      "outputPath": "/Users/vimleshsingh/Projects/azuretest/azuretest/azuretest/obj/",
+      "outputPath": "/Users/vimleshsingh/Projects/azure/azuretest/azuretest/azuretest/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

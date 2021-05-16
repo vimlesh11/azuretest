@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{9223D059-2861-4F44-B2D2-74BDF275947D}|Default">
-  <MonoDevelop.Ide.ItemProperties.azuretest FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.azuretest PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="azuretest" expanded="True" selected="True">
+            <Node name="azuretest" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

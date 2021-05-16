@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e0znEGrC2LSYwkOe+MsN2/Y7DQvOH9imVZS2wys8W0+EL8UMc21uWEfeSiEIeVe52/21zfTNEdy3s9izVtQBdQ==",
+  "dgSpecHash": "mPwV+qaRGJylnId4lPgRTcH3JeVN6sKSwNsb4QMWSZrE7/8bx4dpj9S3v5M2Lamf7dXFsXrSlKKE2Hx9hs+EAQ==",
   "success": true,
-  "projectFilePath": "/Users/vimleshsingh/Projects/azuretest/azuretest/azuretest/azuretest.csproj",
+  "projectFilePath": "/Users/vimleshsingh/Projects/azure/azuretest/azuretest/azuretest/azuretest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
