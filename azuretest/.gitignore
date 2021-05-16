@@ -1,0 +1,5 @@
+﻿.vs/
+./azuretest/bin/
+./azuretest/obj/
+*.user
+.DS_Store

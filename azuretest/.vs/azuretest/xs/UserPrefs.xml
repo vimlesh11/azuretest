@@ -4,13 +4,9 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
           <Node name="azuretest" expanded="True" selected="True">
-            <Node name="azuretest" expanded="True">
-              <Node name="Properties" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
-              </Node>
-            </Node>
+            <Node name="azuretest" expanded="True" />
           </Node>
         </State>
       </Pad>
